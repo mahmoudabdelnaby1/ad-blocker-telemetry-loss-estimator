@@ -1,0 +1,4 @@
+192.168.1.1 - [30/Oct/2026:14:00:01] "GET /product/abaya-01 HTTP/1.1" 200
+192.168.1.1 - [30/Oct/2026:14:00:02] "POST /analytics/collect HTTP/1.1" 200
+192.168.1.2 - [30/Oct/2026:14:00:05] "GET /product/abaya-02 HTTP/1.1" 200
+192.168.1.3 - [30/Oct/2026:14:00:10] "GET /categories/perfumes HTTP/1.1" 200
